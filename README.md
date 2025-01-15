@@ -21,4 +21,4 @@ This project is an Android Jetpack Compose app designed to encrypt DataStore val
 - Modular and reusable encryption utilities.
 
 ## Usage
-Clone this repository and run the project on Android Studio. Minimum SDK 24 is required.
+Clone this repository and run the project on Android Studio. Minimum SDK 26 is required.
